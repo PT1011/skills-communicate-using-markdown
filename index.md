@@ -9,7 +9,10 @@ Me in AP Calculus AB and AP Physics 1: Algebra Based (Because physics totally is
 ![Image of me in calculus and physics](https://media.newyorker.com/photos/649da0e49e87508ed764dc04/master/pass/Bird-Oppemheimer.jpg)
 
 ``` javascript
-var myVar = "I love Github and OpenAi";
+var myVar = "I love Github and OpenAI";
 ```
 
+- [x] Turn on GitHub Pages
+- [ ] Master calculus
+- [ ] Become Supreme Overlord of the Universe
 
